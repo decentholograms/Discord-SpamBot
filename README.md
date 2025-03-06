@@ -8,7 +8,7 @@ An discord bot for spam on any server with no permissions :).
 # SETUP
 
 - Python (PIP)
-  - Open cmd and go to the fastdex folder using CD on windows or linux and run the following command.
+  - Open cmd and go to the project folder using CD on windows or linux and run the following command.
   - pip install -r requirements.txt
     - (Only is discord pip req.)
 
