@@ -16,7 +16,7 @@ An discord bot for spam on any server with no permissions :).
   - 1- Go to: https://discord.com/developers/applications
   - 2- Create new application.
   - 3- Go to bot options (in the bot) and enable messages, presence, and server intents.
-  - 4- Go to the install option and copy the installation link (using Discord to provide the link).
+  - 4- Go to the install option and copy the installation link using the option (Discord Provide Link).
     - Example: https://discord.com/oauth2/authorize?client_id=BOTID
   - 5- Paste it into any Discord or web channel and add it to your apps.
   - 6- Host your bot by setting the bot token in the last line of the PY file.
