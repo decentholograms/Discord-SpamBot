@@ -3,7 +3,7 @@
 An discord bot for spam on any server with no permissions :).
 
 ## IMG (not my authorship)
-![image](https://github.com/user-attachments/assets/16687c6a-83dd-4b90-8712-aecba7e8c8ff)
+![image](https://github.com/user-attachments/assets/bc1182e7-6ae0-4697-803f-9b988b871364)
 
 # SETUP
 
