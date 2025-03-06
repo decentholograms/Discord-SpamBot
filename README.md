@@ -2,7 +2,7 @@
 
 An discord bot for spam on any server with no permissions :).
 
-## IMG (not my authorship)
+## IMAGE (not my authorship)
 ![image](https://github.com/user-attachments/assets/bc1182e7-6ae0-4697-803f-9b988b871364)
 
 # SETUP
@@ -25,4 +25,4 @@ An discord bot for spam on any server with no permissions :).
 # IMPORTANT  
 
 - The creator of this bot is not responsible for misuse.
-- In order for the bot to be able to spy on that channel, it must be enabled "Use external applications" This comes by default in any discord channel. Be careful with this on your Discord server.
+- In order for the bot to be able to spy on that channel, it must be enabled "Use external applications". This comes by default in any discord channel. Be careful with this on your Discord server.
