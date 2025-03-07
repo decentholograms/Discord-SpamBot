@@ -25,4 +25,4 @@ An discord bot for spam on any server with no permissions :).
 # IMPORTANT  
 
 - The creator of this bot is not responsible for misuse.
-- In order for the bot to be able to spy on that channel, it must be enabled "Use external applications". This comes by default in any discord channel. Be careful with this on your Discord server.
+- In order for the bot to be able to spam on that channel, it must be enabled "Use external applications". This comes by default in any discord channel. Be careful with this on your Discord server.
